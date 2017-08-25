@@ -3,6 +3,6 @@ Autocomplete.aws.dk rummer en [guide](http://autocomplete.aws.dk/guide.html), so
 
 Du kan prøve eksemplet på følgende måde:
 
-1. I command prompt/terminal: npm install
+1. I command prompt/terminal: npm install dawa-autocomplete2
 2. Åben index.html i en browser
 3. Påbegynd indtastning af adresse og du vil blive præsenteret for en række alternativer, som du kan vælge
